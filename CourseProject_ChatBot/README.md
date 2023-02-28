@@ -14,7 +14,7 @@
    + forumserials.ru/forum.php
    + датасет instagram_comments_7M.csv
 
-**БИБЛИОТЕКИ**: numpy, pandas, sklearn, telegram, transformers, faiss
+**БИБЛИОТЕКИ**: numpy, pandas, telegram, transformers, faiss
 
 **МОДЕЛИ**: 
   + дообученная BERT-модель для классификации интентов - 'sberbank-ai/ruBert-large'
